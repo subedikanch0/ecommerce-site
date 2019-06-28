@@ -1,0 +1,38 @@
+************************FOR TESTING PURPOSE******************************
+
+
+ ---------------------INSTRUSTION FOR LOGIN-----------------------------
+ 
+ 1)For customers:
+ 	-email: gita@gmail.com
+ 	-password: 12345
+
+ 	-email: pradeepkatwal15@gmail.com
+ 	-password : pradeep
+
+ 2)For Admin:
+ 	Go to address bar and type "al.php" to access admin login page.
+
+ 	-username: admin
+ 	-password: admin
+
+ 	-username: santosh
+ 	-password: santosh	
+
+	-username: suved
+ 	-password: suved
+
+ 	-username: pradeep
+ 	-password: pradeep
+
+
+3) database information
+  
+	  -database name: ict
+	  -server name: localhost
+	  -password:
+	  -username: root
+
+
+
+To insert datatbase inside PHMPYADMIN simply open the phpmyadmin and then click on import, name the database ict, import the ict.sql file from the file and click on import.
